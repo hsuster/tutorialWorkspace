@@ -1,0 +1,16 @@
+c:\users\andrewh\documents\visual studio 2015\Projects\ahTest1\ahTest1\bin\Debug\ahTest1.exe.config
+c:\users\andrewh\documents\visual studio 2015\Projects\ahTest1\ahTest1\bin\Debug\ahTest1.exe
+c:\users\andrewh\documents\visual studio 2015\Projects\ahTest1\ahTest1\bin\Debug\ahTest1.pdb
+c:\users\andrewh\documents\visual studio 2015\Projects\ahTest1\ahTest1\obj\Debug\ahTest1.csprojResolveAssemblyReference.cache
+c:\users\andrewh\documents\visual studio 2015\Projects\ahTest1\ahTest1\obj\Debug\MainWindow.g.cs
+c:\users\andrewh\documents\visual studio 2015\Projects\ahTest1\ahTest1\obj\Debug\App.g.cs
+c:\users\andrewh\documents\visual studio 2015\Projects\ahTest1\ahTest1\obj\Debug\ahTest1_MarkupCompile.cache
+c:\users\andrewh\documents\visual studio 2015\Projects\ahTest1\ahTest1\obj\Debug\ahTest1_MarkupCompile.lref
+c:\users\andrewh\documents\visual studio 2015\Projects\ahTest1\ahTest1\obj\Debug\MainWindow.baml
+c:\users\andrewh\documents\visual studio 2015\Projects\ahTest1\ahTest1\obj\Debug\ahTest1.g.resources
+c:\users\andrewh\documents\visual studio 2015\Projects\ahTest1\ahTest1\obj\Debug\ahTest1.Properties.Resources.resources
+c:\users\andrewh\documents\visual studio 2015\Projects\ahTest1\ahTest1\obj\Debug\ahTest1.csproj.GenerateResource.Cache
+c:\users\andrewh\documents\visual studio 2015\Projects\ahTest1\ahTest1\obj\Debug\ahTest1.exe
+c:\users\andrewh\documents\visual studio 2015\Projects\ahTest1\ahTest1\obj\Debug\ahTest1.pdb
+c:\users\andrewh\documents\visual studio 2015\Projects\ahTest1\ahTest1\obj\Debug\CalcWindow.g.cs
+c:\users\andrewh\documents\visual studio 2015\Projects\ahTest1\ahTest1\obj\Debug\CalcWindow.baml
